@@ -2,7 +2,7 @@ The easiest way to run any of these notebooks is to use bindes. It will resolve 
 
 ## List of notebooks:
 
-* Introduction to dimensionality reduction:
+Introduction to dimensionality reduction:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/demos/HEAD?labpath=DimensionalityReduction.ipynb)
  
