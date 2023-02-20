@@ -2,5 +2,5 @@ The easiest way to run any of these notebooks is to use bindes. It will resolve 
 
 ## List of notebooks:
 
-* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/demos/HEAD?labpath=Dimensionality%2520Reduction.ipynb)
+* __Introduction to dimensionality reduction__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/demos/HEAD?labpath=DimensionalityReduction.ipynb)
  
